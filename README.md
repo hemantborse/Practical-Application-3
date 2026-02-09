@@ -11,5 +11,6 @@ The dataset collected is related to 17 marketing campaigns that occurred between
 
 CRISP-DM Process Model is used
 
+**Model Score Outcome **: Baseline and logistic regression models were created after training and testing : Logistic Regression seems a little higher in score this means baseline model did a little better , however both seem super close to each other in terms of performance
 
 
