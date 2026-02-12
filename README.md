@@ -13,4 +13,7 @@ CRISP-DM Process Model is used
 
 **Model Score Outcome **: Baseline and logistic regression models were created after training and testing : Logistic Regression seems a little higher in score this means baseline model did a little better , however both seem super close to each other in terms of performance
 
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/2a176999-57b8-4e31-8996-f81a0780d984" />
+
+
 
